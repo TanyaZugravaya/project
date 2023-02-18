@@ -11,4 +11,12 @@
     string[] emptyArray = new string [10];
 
 
-    
+    for (int i=0; i<finalArray.Length; i++)
+    {
+      if (finalArray[i].Length <= 3)
+     {
+      emptyArray[i] = finalArray[i];
+     }
+    }
+
+  
