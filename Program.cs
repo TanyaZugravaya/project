@@ -7,3 +7,8 @@
     Console.WriteLine();
 }
 
+    string[] finalArray = {"1234", "1567", "-2", "45", "cat"};
+    string[] emptyArray = new string [10];
+
+
+    
